@@ -9,7 +9,7 @@ import java.nio.channels.FileChannel;
 public class CenOp {
     static int[] cenFlag = new int[]{80, 75, 1, 2};
     static byte[] cenEncryptedFlag = new byte[]{9, 8};
-    static byte[] cenNotEncryptedFlag = new byte[]{0, 8};
+    static byte[] cenNotEncryptedFlag = new byte[]{0, 0};
 
     public static void main(String[] args) {
         if (args.length != 2 || args[1].equals("e") || args[1].equals("r")) {
