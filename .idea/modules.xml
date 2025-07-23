@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ZipCenOp.iml" filepath="$PROJECT_DIR$/ZipCenOp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZipCenOpGUI.iml" filepath="$PROJECT_DIR$/ZipCenOpGUI.iml" />
     </modules>
   </component>
 </project>

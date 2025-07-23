@@ -1,9 +1,15 @@
-# ZipCenOp
+# ZipCenOpGUI
 
-ZipCenOp is a Java tool to play with Zip pseudo-encryption.
+ZipCenOpGUI is a mod of ZipCenOp, which is a Java tool to play with Zip pseudo-encryption.
 
 ## Usage
+### ZipCenOpGUI.jar
+```shell
+java -jar ZipCenOpGUI.jar
+```
+or double click `ZipCenOpGUI.jar` to run.
 
+### ZipCenOp.jar
 ```shell
 java -jar ZipCenOp.jar <option> <file>
 option:
