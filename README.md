@@ -1,5 +1,7 @@
 # ZipCenOpGUI
 
+![demo.png](demo.png)
+
 ZipCenOpGUI is a mod of ZipCenOp, which is a Java tool to play with Zip pseudo-encryption.
 
 ## Usage
